@@ -7,7 +7,7 @@ The dataset comprises 1,190 instances with 11 common features, making it the lar
 Data Description
 Dataset Characteristics
 
-    Categorical Features: 0, 1, 2
+ Categorical Features: 0, 1, 2
     Class: 0, 1 (Heart Disease: Yes or No)
     Number of Instances: 1,190
     Features: 11 common attributes across datasets
@@ -21,7 +21,7 @@ Analytical Techniques
 Our analysis employs logistic regression, ANOVA, and ANCOVA to explore the key factors influencing heart disease risk.
 Logistic Regression
 
-    Key Factors: The analysis revealed that the following variables significantly influence the likelihood of heart disease:
+Key Factors: The analysis revealed that the following variables significantly influence the likelihood of heart disease:
         Age
         Sex
         Chest pain type
@@ -34,12 +34,12 @@ Logistic Regression
 
 ANOVA and ANCOVA
 
-    Chest Pain Type: ANOVA results showed that chest pain type significantly affects maximum heart rate, with age as a covariate demonstrating its impact.
+Chest Pain Type: ANOVA results showed that chest pain type significantly affects maximum heart rate, with age as a covariate demonstrating its impact.
     Cholesterol Levels: ANCOVA analysis indicated that sex significantly influences cholesterol levels, especially when age is considered as a covariate.
 
 Key Findings
 
-    Sex as a Predictor: Males exhibit a significantly higher risk of heart disease compared to females, making sex a potent predictor.
+Sex as a Predictor: Males exhibit a significantly higher risk of heart disease compared to females, making sex a potent predictor.
     Crucial Indicators: Factors such as chest pain type, cholesterol levels, fasting blood sugar, and maximum heart rate are critical indicators of heart disease risk.
 
 Implications
